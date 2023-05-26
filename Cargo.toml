@@ -1,0 +1,11 @@
+[package]
+name = "repo_wrangler"
+version = "0.1.0"
+authors = ["Daniel Furnivall <danielfurnivall@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+git2 = "0.13.22"
+walkdir = "2.3.2"
+regex = "1.5.4"
+
